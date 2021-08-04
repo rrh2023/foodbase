@@ -1,0 +1,28 @@
+.head {
+  padding-left: 40px;
+  color: #181717;
+  text-decoration: none;
+}
+
+.navbar > div {
+  /* padding-left: 90px;
+  padding-right: 90px; */
+  align-items: center;
+}
+
+.copy {
+  margin-right: 800px;
+}
+
+.nav-links {
+  margin-right: 90px;
+  overflow: hidden;
+}
+
+/* .head {
+  text-decoration: black;
+}
+
+.head:hover {
+  text-decoration: black;
+} */
